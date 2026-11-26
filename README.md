@@ -15,20 +15,20 @@ and six panels cover the day's most consequential stories across regions and
 fields:
 
 1. **Tankers hit by mines in Hormuz** — two oil tankers struck naval mines in
-the Strait of Hormuz, exploded and caught fire, as the Iran war escalated.
+   the Strait of Hormuz, exploded and caught fire, as the Iran war escalated.
 2. **Houthis strike Saudi refinery** — Yemen's Houthis attacked Saudi Arabia's
-Ras Tanura oil refinery, causing fires.
+   Ras Tanura oil refinery, causing fires.
 3. **Pakistan's first astronaut in orbit** — China launched Shenzhou-24 to the
-Tiangong space station carrying three astronauts, including Pakistan's first
-astronaut, payload specialist Muhammad Zeeshan Ali.
+   Tiangong space station carrying three astronauts, including Pakistan's first
+   astronaut, payload specialist Muhammad Zeeshan Ali.
 4. **Huawei convicted in US court** — a US federal jury found Huawei guilty of
-conspiracy to steal trade secrets and bank fraud (not guilty of the
-racketeering charge).
+   conspiracy to steal trade secrets and bank fraud (not guilty of the
+   racketeering charge).
 5. **US tariffs up to 20% on China, EU** — the Trump administration proposed
-new tariffs on 14 trading partners after an eight-month Section 301 probe
-into excess manufacturing capacity; China faces the highest rate, 20%.
+   new tariffs on 14 trading partners after an eight-month Section 301 probe
+   into excess manufacturing capacity; China faces the highest rate, 20%.
 6. **Solomon Islands–Australia pact** — the two countries signed a treaty
-precluding any foreign military or security base on Solomon Islands.
+   precluding any foreign military or security base on Solomon Islands.
 
 ## Why these six
 
@@ -55,7 +55,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ## Sources
 
 - Just Security, Early Edition: November 25, 2026 (Hormuz tankers, Houthi
-refinery strike, Huawei verdict, Solomon Islands treaty)
+  refinery strike, Huawei verdict, Solomon Islands treaty)
 - Reuters / Al Jazeera / CNN, 25 November 2026 (US tariff proposal)
 - ECNS / Xinhua, 25 November 2026 (Shenzhou-24 launch)
 
